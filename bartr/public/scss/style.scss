@@ -1,0 +1,13 @@
+@import 'compass';
+@import 'breakpoint';
+@import './variables';
+@import './mixin';
+@import './placeholders';
+
+//reset
+@import './normalize';
+@import './reset';
+
+//main css
+@import './components/common';
+@import './components/layout';
